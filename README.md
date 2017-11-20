@@ -12,4 +12,4 @@
 * 姓名：楊韋襦   0431005
 * 姓名：陳柔潔   0441004
 
-**[高雄第一科技大學NKFUST][http://www.nkfust.edu.tw/bin/home.php]**
+**[高雄第一科技大學NKFUST]**(http://www.nkfust.edu.tw/bin/home.php)
